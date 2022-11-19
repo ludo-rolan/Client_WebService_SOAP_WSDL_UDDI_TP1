@@ -1,5 +1,5 @@
 <h1>Stub Creation for web service consumption</h1>
-<hr/><br/><br/>
+<hr/><br/>
 <h3>Generation Java Code from wsdl</h3>
 <img src="screenshots/code_generation_with_wsdl.png"/>
 <br/>
